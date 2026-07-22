@@ -79,7 +79,7 @@ nebula-red-social/
 ## 📋 Estado del Proyecto
  
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-blue)
-![Avance](https://img.shields.io/badge/Avance-1%20de%203-orange)
+![Avance](https://img.shields.io/badge/Avance-2%20de%203-orange)
  
 ---
  
